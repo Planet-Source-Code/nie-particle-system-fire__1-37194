@@ -1,0 +1,1 @@
+particul.exe -b 5 -g -0 -p 5000 -k 200 -l 0 -c 0 360 

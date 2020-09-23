@@ -1,0 +1,1 @@
+particul.exe -b 9 -g 0 -w 0.5 -p 5000 -k 700 -l 1
